@@ -28,7 +28,4 @@ Contains all the cards that would be shown in your collection.
 
 All the cards you can get through buying packs.
 
-## Please send me all the great stuff you make with this!
-
--  [E-mail](mailto:philippdyck@hotmail.de)
--  [Twitter](http://twitter.com/philippdyck)
+## Have fun !
