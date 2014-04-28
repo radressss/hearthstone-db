@@ -4,15 +4,15 @@ A collection of all Hearthstone cards in a JSON format for all purposes.
 
 ## How to install
 
-'''
+```
 git clone git://github.com/pdyck/hearthstone-db.git
-'''
+```
 
 OR
 
-'''
+```
 bower install hearthstone-db
-'''
+```
 
 ## Files
 
