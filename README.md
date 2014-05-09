@@ -2,6 +2,8 @@
 
 A collection of all Hearthstone cards in a JSON format for all purposes.
 
+Updated to patch 1.0.0.5314
+
 ## How to install
 
 ```
@@ -23,9 +25,5 @@ Contains all the cards used in Hearthstone(including promotional cards, tokens, 
 ### all-collectibles.json
 
 Contains all the cards that would be shown in your collection.
-
-### expert-cards.json
-
-All the cards you can get through buying packs.
 
 ## Have fun !
