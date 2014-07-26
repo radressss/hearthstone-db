@@ -9425,7 +9425,7 @@
       {
         "id": 1662,
         "name": "Eaglehorn Bow",
-        "description": "Whenever a <b>Secret<\/b> is revealed, gain +1 Durability.",
+        "description": "Whenever a friendly <b>Secret<\/b> is revealed, gain +1 Durability.",
         "image_url": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/medium\/EX1_536.png",
         "hero": "hunter",
         "category": "weapon",
@@ -9925,6 +9925,123 @@
         "effect_list": [
           
         ]
-      }
+      },
+      {
+        "id": 2001,
+        "name": "Maexxna",
+        "description": "Destroy any minion damaged by this minion.",
+        "image_url": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/FP1_010.png",
+        "hero": "neutral",
+        "category": "minion",
+        "quality": "legendary",
+        "race": "beast",
+        "set": "naxxramas",
+        "mana": 6,
+        "attack": 2,
+        "health": 8,
+        "collectible": true,
+        "effect_list": [
+
+        ]
+    },
+    {
+        "id": 2002,
+        "name": "Loatheb",
+        "description": "<b>Battlecry:</b> Enemy spells cost (5) more next turn.",
+        "image_url": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/FP1_030.png",
+        "hero": "neutral",
+        "category": "minion",
+        "quality": "legendary",
+        "race": "none",
+        "set": "naxxramas",
+        "mana": 5,
+        "attack": 5,
+        "health": 5,
+        "collectible": true,
+        "effect_list": [
+            {
+                "effect": "battlecry",
+                "extra": "Enemy spells cost (5) more next turn"
+            }
+        ]
+    },
+    {
+        "id": 2003,
+        "name": "Baron Rivendare",
+        "description": "Your minions trigger their <b>Deathrattles</b> twice.",
+        "image_url": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/FP1_031.png",
+        "hero": "neutral",
+        "category": "minion",
+        "quality": "legendary",
+        "race": "none",
+        "set": "naxxramas",
+        "mana": 4,
+        "attack": 1,
+        "health": 7,
+        "collectible": true,
+        "effect_list": [
+
+        ]
+    },
+    {
+        "id": 2004,
+        "name": "Feugen",
+        "description": "<b>Deathrattle:</b> If Stalagg also died this game, summon Thaddius.",
+        "image_url": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/FP1_015.png",
+        "hero": "neutral",
+        "category": "minion",
+        "quality": "legendary",
+        "race": "none",
+        "set": "naxxramas",
+        "mana": 5,
+        "attack": 4,
+        "health": 7,
+        "collectible": true,
+        "effect_list": [
+            {
+                "effect": "deathrattle",
+                "extra": "If Stalagg also died this game, summon Thaddius"
+            }
+        ]
+    },
+    {
+        "id": 2005,
+        "name": "Stalagg",
+        "description": "<b>Deathrattle:</b> If Feugen also died this game, summon Thaddius.",
+        "image_url": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/FP1_014.png",
+        "hero": "neutral",
+        "category": "minion",
+        "quality": "legendary",
+        "race": "none",
+        "set": "naxxramas",
+        "mana": 5,
+        "attack": 7,
+        "health": 4,
+        "collectible": true,
+        "effect_list": [
+            {
+                "effect": "deathrattle",
+                "extra": "If Feugen also died this game, summon Thaddius"
+            }
+        ]
+    },
+    {
+        "id": 2006,
+        "name": "Kel'Thuzad",
+        "description": "At the end of each turn, summon all friendly minions that died this turn.",
+        "image_url": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/FP1_013.png",
+        "hero": "neutral",
+        "category": "minion",
+        "quality": "legendary",
+        "race": "none",
+        "set": "naxxramas",
+        "mana": 8,
+        "attack": 6,
+        "health": 8,
+        "collectible": true,
+        "effect_list": [
+
+        ]
+    }
     ]
 }
