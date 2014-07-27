@@ -1,8 +1,10 @@
 # Hearthstone-DB
 
+--- all-cards.json wom't be supported anymore in the next update. ---
+
 A collection of all Hearthstone cards in a JSON format for all purposes.
 
-Updated to patch 1.0.0.5314
+Updated to patch 1.1.0.6024
 
 ## How to install
 
@@ -21,6 +23,7 @@ bower install hearthstone-db
 ### all-cards.json
 
 Contains all the cards used in Hearthstone(including promotional cards, tokens, hero powers etc.).
+(Not up to date and won't be updated.)
 
 ### all-collectibles.json
 
