@@ -6,7 +6,7 @@ A collection of all Hearthstone cards in a JSON format for all purposes.
 
 Updated to patch 1.1.0.6024
 
-(Download)[http://www.filedropper.com/hs-images] all images here.
+[Download](http://www.filedropper.com/hs-images) all images here.
 
 ## How to install
 
