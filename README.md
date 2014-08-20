@@ -1,7 +1,5 @@
 # Hearthstone-DB
 
---- all-cards.json won't be supported anymore in the next update. ---
-
 A collection of all Hearthstone cards in a JSON format for all purposes.
 
 Updated to patch 1.1.0.6024
@@ -80,7 +78,7 @@ effect_list: array
 
 Contains all the cards used in Hearthstone(including promotional cards, tokens, hero powers etc.).
 
-(Not up to date and won't be updated. Will probably also be removed soon.)
+(Not up to date and won't be updated. Naxxramas heroes missing.)
 
 ### all-collectibles.json
 
