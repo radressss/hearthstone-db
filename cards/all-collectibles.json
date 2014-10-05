@@ -1,7 +1,7 @@
 {
     "meta": {
-        "patch": "1.1.0.6024",
-        "last_updated": "27.07.2014",
+        "patch": "1.2.0.6485",
+        "last_updated": "05.10.2014",
         "repository": "https://github.com/pdyck/hearthstone-db.git",
         "updated_by": {
             "name": "Philipp Dyck",
@@ -2792,7 +2792,7 @@
         "quality": "legendary",
         "race": "none",
         "set": "expert",
-        "mana": 4,
+        "mana": 5,
         "attack": 6,
         "health": 2,
         "collectible": true,
@@ -6082,9 +6082,9 @@
         "quality": "common",
         "race": "beast",
         "set": "basic",
-        "mana": 2,
-        "attack": 2,
-        "health": 1,
+        "mana": 5,
+        "attack": 3,
+        "health": 2,
         "collectible": true,
         "effect_list": []
     },
