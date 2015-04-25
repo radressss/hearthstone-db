@@ -26,6 +26,7 @@ name: string,
 description: string,
 image_url: string,
 hero: string
+	- "neutral"
 	- "druid"
 	- "hunter"
 	- "mage",
@@ -50,6 +51,7 @@ race: string
 	- "none"
 	- "beast"
 	- "demon"
+	- "dragon"
 	- "pirate"
 	- "murloc"
 	- "totem"
@@ -58,7 +60,8 @@ set: string
 	- "basic"
 	- "expert"
 	- "naxxramas"
-	- "gvg",
+	- "gvg"
+	- "brm",
 mana: integer,
 attack: integer,
 health: integer,
@@ -83,10 +86,14 @@ effect_list: array
 cards:
 	- all-cards.json ([Almost] all cards in the game)
 	- all-collectibles.json (All cards you can have in your collection)
+	- brm.json (All Blackrock Mountain cards)
 	- gvg.json (All GvG cards)
 	- naxxramas.json (All Naxx cards)
+
 ```
 
 
 
 ## Have fun !
+
+(BTW B.NET gift cards are appreciated :stuck_out_tongue:)
