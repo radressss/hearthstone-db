@@ -2,7 +2,7 @@
 
 A collection of all Hearthstone cards in a JSON format for all purposes.
 
-Updated to patch 1.1.0.6024
+Updated to GVG
 
 [Download](https://www.dropbox.com/s/l6je7qjjqeogkiz/hs-images.zip) all images here.
 
@@ -49,11 +49,16 @@ quality: string
 race: string
 	- "none"
 	- "beast"
-	- "demon",
+	- "demon"
+	- "pirate"
+	- "murloc"
+	- "totem"
+	- "mech",
 set: string
 	- "basic"
 	- "expert"
-	- "naxxramas",
+	- "naxxramas"
+	- "gvg",
 mana: integer,
 attack: integer,
 health: integer,
