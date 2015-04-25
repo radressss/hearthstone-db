@@ -79,14 +79,14 @@ effect_list: array
 
 ## Files
 
-### all-cards.json
+```
+cards:
+	- all-cards.json ([Almost] all cards in the game)
+	- all-collectibles.json (All cards you can have in your collection)
+	- gvg.json (All GvG cards)
+	- naxxramas.json (All Naxx cards)
+```
 
-Contains all the cards used in Hearthstone(including promotional cards, tokens, hero powers etc.).
 
-(Not up to date and won't be updated. Naxxramas heroes missing.)
-
-### all-collectibles.json
-
-Contains all the cards that would be shown in your collection.
 
 ## Have fun !
