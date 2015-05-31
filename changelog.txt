@@ -1,0 +1,14 @@
+wholeCell variable is a variable taken from everyCard and all the files merged into one cell array
+
+I did not include ‘debug’ in the wholeCell and I do not understand what it is.
+
+I also did not include missions because I only need cards that can be played directly
+
+cards.json is a file taken from the github files of hearthstone tracker.com
+
+cards.json changed to cardsOLD.json then another version of it downloaded from:
+
+https://github.com/ducino/hearthstone
+
+now I have just realized that it has not been updated for more than a year so ill look for a better version
+
