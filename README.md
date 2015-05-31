@@ -8,15 +8,28 @@ Updated to GVG
 
 ## How to install
 
+Choose one of these methods
+
 ```
+npm install hearthstone-db --save
+bower install hearthstone-db --save
 git clone git://github.com/pdyck/hearthstone-db.git
 ```
 
-OR
+## How to use with npm
+
+The module is an json object with this structure:
 
 ```
-bower install hearthstone-db
+hearthstone-db:
+	- meta
+	- allCards
+	- allCollectibles
+	- brm
+	- gvg
+	- naxxramas
 ```
+
 
 ## JSON object structure
 
@@ -91,9 +104,3 @@ cards:
 	- naxxramas.json (All Naxx cards)
 
 ```
-
-
-
-## Have fun !
-
-(BTW B.NET gift cards are appreciated :stuck_out_tongue:)
